@@ -1,0 +1,16 @@
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\bin\Debug\netcoreapp3.1\AnkiTgBot.exe
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\bin\Debug\netcoreapp3.1\AnkiTgBot.deps.json
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\bin\Debug\netcoreapp3.1\AnkiTgBot.runtimeconfig.json
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\bin\Debug\netcoreapp3.1\AnkiTgBot.runtimeconfig.dev.json
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\bin\Debug\netcoreapp3.1\AnkiTgBot.dll
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\bin\Debug\netcoreapp3.1\AnkiTgBot.pdb
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\obj\Debug\netcoreapp3.1\AnkiTgBot.csprojAssemblyReference.cache
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\obj\Debug\netcoreapp3.1\AnkiTgBot.AssemblyInfoInputs.cache
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\obj\Debug\netcoreapp3.1\AnkiTgBot.AssemblyInfo.cs
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\obj\Debug\netcoreapp3.1\AnkiTgBot.csproj.CoreCompileInputs.cache
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\obj\Debug\netcoreapp3.1\AnkiTgBot.csproj.CopyComplete
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\obj\Debug\netcoreapp3.1\AnkiTgBot.dll
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\obj\Debug\netcoreapp3.1\AnkiTgBot.pdb
+D:\University\ОП\AnkiAPI\AnkiTgBot(True)\AnkiTgBot\AnkiTgBot\obj\Debug\netcoreapp3.1\AnkiTgBot.genruntimeconfig.cache
